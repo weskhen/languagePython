@@ -5,7 +5,7 @@ import time
 
 originDir = '/Users/admin/Desktop/ios'
 #本地项目多语言路径
-desDir = '/Volumes/M/workSpace/BaBa-iOS-1.1.9/Resources'
+desDir = '/Resources'
 
 def copyToDestinationFolder(originPath,destPath):
     start = time.time()
